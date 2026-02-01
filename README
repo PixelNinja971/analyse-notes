@@ -1,0 +1,51 @@
+# 📊 Analyse de notes (Python)
+
+## 🎯 Objectif
+Ce projet a pour objectif de créer un programme en Python permettant de **simuler, stocker et analyser les notes d’une classe** à l’aide de listes, de dictionnaires et de fonctions.
+
+Le programme est **interactif** et fonctionne via un menu utilisateur.
+
+---
+
+## 🧑‍🎓 Données utilisées
+- Une liste d’élèves
+- Un dictionnaire associant chaque élève à une note
+- Les notes sont des **nombres entiers entre 0 et 20**
+- Les notes sont **générées aléatoirement** à chaque exécution
+
+---
+
+## ⚙️ Fonctionnalités
+Le programme propose les actions suivantes :
+
+- Afficher la liste des élèves
+- Afficher les notes de la classe
+- Calculer et afficher la moyenne de la classe
+- Afficher la meilleure note (avec l’élève associé)
+- Afficher la pire note (avec l’élève associé)
+- Afficher les élèves ayant une note au-dessus de la moyenne
+- Quitter le programme
+
+---
+
+## 🧠 Concepts abordés
+- Listes
+- Dictionnaires
+- Fonctions
+- Boucles (`for`, `while`)
+- Conditions (`if`, `elif`, `else`)
+- Génération de nombres aléatoires (`random`)
+- Organisation et lisibilité du code
+
+---
+
+## ▶️ Exécution du programme
+
+### Prérequis
+- Python 3 installé sur la machine
+
+### Lancer le programme
+Dans un terminal :
+
+```bash
+python main.py
