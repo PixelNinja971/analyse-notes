@@ -48,4 +48,4 @@ Le programme propose les actions suivantes :
 Dans un terminal :
 
 ```bash
-python main.py
+python analyse.py
